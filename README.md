@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sham
+- 👋 Hi, I’m Samm
 - 👀 I’m interested in different frameworks, they work and the best uses for each one
 - 🌱 I’m currently learning Express with Mongo DB
 - 💞️ I’m looking to collaborate on ...
