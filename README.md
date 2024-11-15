@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sam
-- 
+👋 Hi, I’m Sam
+  
 👨‍💻 Software Developer
 Passionate about building innovative and user-friendly web applications using JavaScript, React, Python, and MySQL.
 
@@ -15,7 +15,7 @@ Experienced in front-end and back-end development, creating responsive and scala
 🚀 Aspiring Innovator
 Motivated to contribute to impactful projects, leveraging coding expertise to create meaningful digital solutions.
 
-- 📫 How to reach me ... shaminali786123@gmail.com
+📫 How to reach me ... shaminali786123@gmail.com
 
 <!---
 shamim159/shamim159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
